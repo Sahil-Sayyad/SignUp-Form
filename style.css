@@ -68,7 +68,7 @@ input{
     padding: 1%;
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 850px) and (max-width: 430px) {
     input{
         padding-right: 0px;  
     }
